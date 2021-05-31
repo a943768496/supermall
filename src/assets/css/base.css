@@ -1,0 +1,13 @@
+:root {
+  --color-text: rgb(156, 156, 156);
+  --color-high-text: #ff637c;
+  --color-tint: #ff8198;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+  --color-space: #f2f5f8;
+}
+* {
+  margin: 0;
+  padding: 0;
+}

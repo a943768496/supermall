@@ -1,0 +1,25 @@
+{
+  "name": "shopping",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "better-scroll": "^2.3.1",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "mint-ui": "^2.2.13",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1",
+    "vue-template-compiler": "^2.6.12",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}
